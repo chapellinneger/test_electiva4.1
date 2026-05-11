@@ -1,0 +1,5 @@
+"Había una vez un pequeño bit de información que vivía en un repositorio llamado 'Electiva'. 
+A diferencia de otros bits, él soñaba con viajar a través de las ramas de Git, explorando cada commit y cada pull request. 
+Un día, finalmente fue seleccionado para una nueva rama, donde descubrió que su propósito no era solo existir en el código, 
+sino contar la historia de quien lo creó. Desde entonces, cada vez que alguien hacía un 'git push', él viajaba feliz hacia la nube, 
+sabiendo que su historia sería leída por alguien más."
